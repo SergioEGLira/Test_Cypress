@@ -1,0 +1,17 @@
+{
+  "firstname": "Sergio",
+  "lastname": "Eduardo",
+  "email": "2ufake2@email.com",
+  "passwd": "senhaDeSergioEduardo",
+  "accountLoggedIn": "Sergio Eduardo",
+  "birthDay": "10",
+  "birthMonth": "January",
+  "birthYear": "2000",
+  "priceOfTheProduct": "$50.99",
+  "priceOfTheProduct2": "$30.50",
+  "priceOfTheProduct3": "$16.51",
+  "priceOfTheProduct4": "$27.00",
+  "priceOfTheProduct5": "$26.00",
+  "priceOfTheProduct6": "$28.98",
+  "priceOfTheProduct7": "$16.40"
+}
